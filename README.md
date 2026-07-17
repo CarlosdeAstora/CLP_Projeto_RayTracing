@@ -1,4 +1,4 @@
-# Ray Tracer Bilíngue — Java + Python
+# Ray Tracer Bilíngue — Java e Python
 
 ## 📖 Resumo do projeto
 
